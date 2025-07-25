@@ -34,3 +34,17 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 
 This project is licensed under the MIT License.
+
+Screenshots:
+
+![1](https://github.com/user-attachments/assets/7126f8b8-f35a-40b4-a964-3c6da5aa7e73)
+![2](https://github.com/user-attachments/assets/80fcf97d-e782-4a3a-9ecd-51a17a832928)
+![3](https://github.com/user-attachments/assets/29cf0b47-3e5c-47cf-be3e-82f8bf6ae96c)
+![5](https://github.com/user-attachments/assets/e1b580eb-9b83-4374-9c48-f4972a8953da)
+![6](https://github.com/user-attachments/assets/0bc13eeb-3e63-477c-9f19-3807a84fbe87)
+
+
+
+https://github.com/user-attachments/assets/602cc813-c03a-4633-ac01-f60731e341b1
+
+
